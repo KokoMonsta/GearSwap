@@ -1,7 +1,0 @@
-//react add "Vodo" "Blink of Peril" Ready "turnaround"
-//react add "Vodo" "Blink of Peril" Complete "facemob"
-
-//react add "Monster Name" "TP move or spell" Ready "turnaround"
-//react add "Monster Name" "TP move or spell" Complete "facemob"
-
-//react add "Monster Name" "TP move or Spell" Ready "input /ma Stun <t>"
